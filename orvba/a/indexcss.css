@@ -1,0 +1,34 @@
+.x{
+    box-shadow: 2px 3px 5px black;
+   
+}
+.popup{
+    height: 350px;
+    width: 400px;
+    position: absolute; 
+    top: 25%;
+    left: 35%;
+
+    
+
+}
+.p{
+    position: fixed;
+    top:0;left: 0;
+    height: 100%;
+    width: 100%;
+    display: none;
+    visibility: hidden;
+}
+.open-popup
+{
+   visibility:visible;
+    
+
+}
+.star span:hover{
+color: aqua;   
+
+}
+
+
